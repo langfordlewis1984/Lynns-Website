@@ -1,0 +1,2 @@
+# Lynns-Website
+chatGPT exercise
